@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://miwicetihifi.pages.dev/sitemap.xml
